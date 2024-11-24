@@ -1,4 +1,4 @@
-# **Parte 2: Desafio**
+# **Desafio**
 
 ## **Descrição do Laboratório**
 Os alunos deverão projetar, implementar e testar uma **Amazon VPC** com sub-redes públicas e privadas, seguindo as diretrizes abaixo.
@@ -30,20 +30,3 @@ Você é responsável por configurar a infraestrutura de uma pequena empresa. A 
 
 ---
 
-### **Critérios de Sucesso**
-1. **Arquitetura**
-   - Sub-redes configuradas corretamente.
-   - Tabelas de rotas apontando para o gateway adequado.
-2. **Acessibilidade**
-   - O servidor web deve ser acessível por um navegador.
-   - A instância privada deve ser capaz de acessar a internet, mas não ser acessível diretamente.
-3. **Segurança**
-   - Grupos de segurança configurados para limitar o acesso.
-
----
-
-### **Entrega**
-Os alunos devem apresentar:
-- Diagrama da arquitetura.
-- Capturas de tela do console AWS mostrando os recursos criados.
-- Explicação do processo e dos resultados obtidos.

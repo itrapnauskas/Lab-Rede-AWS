@@ -1,13 +1,11 @@
-# **Conteúdo: Redes e Entrega de Conteúdo**
+# **Seção 1: Noções Básicas de Redes**
 
-## **Introdução aos Principais Conceitos de Redes**
-Este módulo abrange conceitos fundamentais sobre redes e entrega de conteúdo, destacando serviços da AWS como **Amazon VPC**, **Amazon Route 53**, e **Amazon CloudFront**. Esses serviços são essenciais para criar, gerenciar e otimizar redes na nuvem e entregar conteúdo de forma eficiente e segura.
+## **Introdução**
 
+Vamos explorar os conceitos fundamentais de redes de computadores que são essenciais para compreender como dispositivos se comunicam e como a AWS implementa serviços de rede como o **Amazon Virtual Private Cloud (Amazon VPC)**. 
 ---
 
-### **Seção 1: Noções Básicas de Redes**
-
-## **O que é uma Rede de Computadores?**
+### **O que é uma Rede de Computadores?**
 
 Uma **rede de computadores** é uma conexão entre dois ou mais dispositivos (computadores, servidores, impressoras, etc.) que permite o compartilhamento de recursos e a comunicação entre eles. As redes podem ser divididas logicamente em **sub-redes** para otimizar a organização, segurança e eficiência do tráfego de dados.
 
@@ -239,7 +237,7 @@ As **Tabelas de Rotas** definem como o tráfego de rede é direcionado dentro da V
 
 ---
 
-## **Referências para Estudo Adicional**
+## **Referências**
 
 - **Documentação AWS sobre Amazon VPC**:
   - [O que é Amazon VPC?](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html)
@@ -251,68 +249,3 @@ As **Tabelas de Rotas** definem como o tráfego de rede é direcionado dentro da V
 
 ---
 
-## **Conclusão**
-
-Compreender os fundamentos de redes é crucial para projetar e implementar infraestruturas eficientes e seguras na nuvem. Os conceitos abordados nesta seção servem como base para as próximas etapas, onde aplicaremos esse conhecimento na configuração de redes virtuais com o Amazon VPC, explorando suas funcionalidades e benefícios.
-
----
-
-# **Próximos Passos**
-
-- **Seção 2: Amazon VPC**
-  - Exploraremos como criar redes virtuais na nuvem usando o Amazon VPC.
-  - Aprenderemos sobre sub-redes públicas e privadas, gateways e tabelas de rotas.
-- **Seção 3: Redes da VPC**
-  - Veremos as diferentes opções de conectividade e como expandir nossas redes.
-- **Seção 4: Segurança da VPC**
-  - Entenderemos como proteger nossas redes usando grupos de segurança e ACLs de rede.
-
----
-
-Aprofundar-se nesses conceitos permitirá que você projete arquiteturas de rede robustas e seguras, atendendo às necessidades específicas de aplicações modernas e escaláveis.
-
----
-
-### **Seção 2: Amazon VPC**
-
-#### **1. O que é Amazon VPC?**
-Amazon Virtual Private Cloud permite criar redes isoladas na nuvem, oferecendo controle completo sobre endereços IP, sub-redes, tabelas de rotas e gateways.
-
-#### **2. Componentes Fundamentais da Amazon VPC**
-- **Sub-redes**: 
-  - **Pública**: Acesso direto à internet.
-  - **Privada**: Isolada da internet.
-- **Tabelas de Rota**: Regras que direcionam o tráfego da rede.
-- **Gateways**:
-  - **Internet Gateway**: Conecta a sub-rede pública à internet.
-  - **NAT Gateway**: Permite que sub-redes privadas acessem a internet sem serem acessíveis por ela.
-
-#### **3. Segurança na VPC**
-- **Grupos de Segurança (Security Groups)**: Controlam o tráfego em nível de instância.
-- **Listas de Controle de Acesso à Rede (Network ACLs)**: Controlam o tráfego em nível de sub-rede.
-
----
-
-### **Seção 3: Amazon Route 53**
-
-#### **1. O que é Amazon Route 53?**
-Serviço de DNS gerenciado pela AWS que traduz nomes de domínio em endereços IP. Suporta:
-- **Roteamento geográfico**: Direciona usuários ao servidor mais próximo.
-- **Failover DNS**: Redireciona usuários a servidores de backup em caso de falhas.
-
----
-
-### **Seção 4: Amazon CloudFront**
-
-#### **1. O que é Amazon CloudFront?**
-Serviço de Rede de Entrega de Conteúdo (CDN) que usa pontos de presença globais para:
-- Melhorar a velocidade de entrega de conteúdo.
-- Reduzir a latência para usuários finais.
-- Aumentar a segurança e a escalabilidade de aplicações.
-
-#### **2. Benefícios**
-- Baixa latência.
-- Segurança integrada (AWS Shield, SSL).
-- Integração com outros serviços AWS.
-
----
