@@ -237,15 +237,3 @@ As **Tabelas de Rotas** definem como o tráfego de rede é direcionado dentro da V
 
 ---
 
-## **Referências**
-
-- **Documentação AWS sobre Amazon VPC**:
-  - [O que é Amazon VPC?](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html)
-- **Conceitos de Redes**:
-  - **Endereçamento IP e Sub-redes**:
-    - [Conceitos Básicos de Sub-redes](https://www.techtudo.com.br/artigos/noticia/2016/08/entenda-o-que-e-sub-rede-e-para-que-serve.html)
-  - **Modelo OSI**:
-    - [As Sete Camadas do Modelo OSI](https://www.redesdamais.com.br/as-sete-camadas-do-modelo-osi/)
-
----
-

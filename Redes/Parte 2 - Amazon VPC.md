@@ -240,15 +240,3 @@ A segurança é um aspecto crítico na configuração da VPC. Duas ferramentas princi
   - **AWS Site-to-Site VPN** e **AWS Direct Connect** oferecem opções para conectar redes on-premises à nuvem AWS.
 
 ---
-
-## **Referências**
-
-- **Documentação AWS sobre Amazon VPC**:
-  - [O que é Amazon VPC?](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/what-is-amazon-vpc.html)
-  - [Conceitos Básicos da Amazon VPC](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC_Introduction.html)
-- **Tutoriais e Guias**:
-  - [Criando sua primeira VPC](https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpc-getting-started.html)
-- **Blog AWS**:
-  - [One to Many: Evoluindo o Design de VPC na AWS](https://aws.amazon.com/pt/blogs/architecture/one-to-many-evolving-vpc-design/)
-
----

@@ -229,17 +229,3 @@ O Amazon Route 53 oferece várias políticas de roteamento que determinam como a
   - Suporta DNSSEC e oferece uma infraestrutura robusta para garantir que as consultas DNS sejam atendidas com precisão.
 
 ---
-
-## **Referências**
-
-- **Documentação Oficial**:
-  - [Amazon Route 53 Developer Guide](https://docs.aws.amazon.com/route53/)
-  - [Amazon Route 53 FAQs](https://aws.amazon.com/route53/faqs/)
-- **Páginas de Produtos e Preços**:
-  - [Página do Produto Amazon Route 53](https://aws.amazon.com/route53/)
-  - [Preços do Amazon Route 53](https://aws.amazon.com/route53/pricing/)
-- **Blogs e Artigos**:
-  - [Melhores Práticas para Implementação de DNS Failover com Amazon Route 53](https://aws.amazon.com/pt/blogs/architecture/best-practices-for-implementing-dns-failover-with-amazon-route-53/)
-  - [Como Usar o Amazon Route 53 para Melhorar a Disponibilidade e Desempenho](https://aws.amazon.com/pt/blogs/networking-and-content-delivery/improving-availability-and-performance-with-amazon-route-53/)
-
----
