@@ -1,11 +1,4 @@
-```markdown
 # **Desafio: Configure Sua Própria VPC e Inicie um Servidor Web**
-
-Neste desafio, você irá criar uma infraestrutura personalizada na **AWS**, configurando uma **Amazon VPC** e adicionando componentes essenciais como sub-redes, tabelas de rotas, e um grupo de segurança. Ao final, você irá lançar uma instância EC2 configurada como um servidor web. O objetivo é proporcionar uma experiência prática no uso da AWS para construir uma rede segura e funcional.
-
----
-
-## **Cenário**
 
 Você foi contratado para configurar a infraestrutura de uma pequena empresa que precisa de uma rede virtual com os seguintes requisitos:
 
@@ -25,7 +18,7 @@ Ao concluir este desafio, sua arquitetura incluirá:
 
 ---
 
-## **Instruções Detalhadas**
+## **Instruções**
 
 ### **Passo 1: Criação da VPC e Sub-redes**
 

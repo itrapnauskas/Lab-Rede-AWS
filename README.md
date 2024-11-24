@@ -1,6 +1,6 @@
 # **Introdução às Redes e Serviços AWS**
 
-Este conteúdo é uma introdução prática e teórica sobre redes de computadores e serviços da AWS, como **Amazon VPC**, **Amazon Route 53** e **Amazon CloudFront**. O objetivo é capacitar os alunos a compreender conceitos fundamentais e aplicar esse conhecimento na criação de arquiteturas de rede na nuvem.
+Este conteúdo é uma introdução prática e teórica sobre redes de computadores e serviços da AWS, como **Amazon VPC**, **Amazon Route 53** e **Amazon CloudFront**. 
 
 ---
 
@@ -36,11 +36,3 @@ Este conteúdo é uma introdução prática e teórica sobre redes de computador
 - Escolham **uma seção** do material e apresentem um resumo (máximo de 10 minutos) explicando os principais conceitos e aplicações.
 
 ---
-
-## **Entrega**
-- Relatório com as configurações realizadas e capturas de tela.
-- Resumo da apresentação, incluindo os conceitos abordados.
-
----
-
-Aproveitem o desafio para consolidar o aprendizado e desenvolver habilidades práticas em redes e serviços AWS!
